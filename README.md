@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Guidesmiths
+- 🔭 I’m currently working at [One Beyond](http://www.one-beyond.com) (fromerly DCSL Guidesmiths)
 - 🌱 I’m currently learning to be a Team Lead, NodeJs, developing...
 - 💬 Ask me about microservices
 
