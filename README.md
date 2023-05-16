@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [One Beyond](http://www.one-beyond.com) (fromerly DCSL Guidesmiths)
 - 🌱 I’m currently learning to be a Software Architect, a Team Lead, NodeJs, developing...
 - 💬 Ask me about microservices
-
+<!--
 [![Betisman's github stats](https://github-readme-stats.vercel.app/api?username=betisman)](https://github.com/anuraghazra/github-readme-stats)
+-->
